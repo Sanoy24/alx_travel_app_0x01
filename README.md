@@ -1,2 +1,2 @@
-Milestone 2: Creating Models, Serializers, and Seeders
+Milestone 3: Creating Models, Serializers, and Seeders
 
